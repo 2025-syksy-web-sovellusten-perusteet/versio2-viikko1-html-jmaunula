@@ -1,1 +1,11 @@
 /* Tyhjä aloituspohja: lisää omat tyylisi. */
+label, button {
+    display: block;
+    margin-top: 10px;
+}
+
+table, caption, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
